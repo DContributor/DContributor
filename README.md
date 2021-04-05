@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Daniel Osei here
+
+I am a tech enthusiast currently Learning Frontend Development
+HTML, CSS, JS.
+
+Hoping to start my own project soon and become a leading open source contributor
+as my name goes.
+
+⚡ Fun fact: I am an Energy Systems Engineer aspiring to implement engineering solutions using web technologies
+
 
 <!--
 **DContributor/DContributor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
